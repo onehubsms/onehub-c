@@ -1,5 +1,5 @@
 # Onehub C Library
-```
+```c
 // include the curl/curl.h library
 
 int main(int argc, char *argv[])
